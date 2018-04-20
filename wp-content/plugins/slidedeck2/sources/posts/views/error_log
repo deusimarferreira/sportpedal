@@ -1,0 +1,10 @@
+[02-Jun-2014 01:49:48] PHP Fatal error:  Using $this when not in object context in /home/pedal/public_html/wp-content/plugins/slidedeck2/sources/posts/views/show.php on line 36
+[02-Jun-2014 01:53:22] PHP Fatal error:  Call to undefined function  is_taxonomy_hierarchical() in /home/pedal/public_html/wp-content/plugins/slidedeck2/sources/posts/views/_available_terms.php on line 34
+[14-Jun-2014 17:08:45] PHP Fatal error:  Using $this when not in object context in /home/pedal/public_html/wp-content/plugins/slidedeck2/sources/posts/views/show.php on line 36
+[15-Jun-2014 00:43:36] PHP Fatal error:  Call to undefined function  is_taxonomy_hierarchical() in /home/pedal/public_html/wp-content/plugins/slidedeck2/sources/posts/views/_available_terms.php on line 34
+[06-Aug-2014 13:38:56] PHP Fatal error:  Using $this when not in object context in /home/pedal/public_html/wp-content/plugins/slidedeck2/sources/posts/views/show.php on line 36
+[07-Aug-2014 13:25:04] PHP Fatal error:  Call to undefined function  is_taxonomy_hierarchical() in /home/pedal/public_html/wp-content/plugins/slidedeck2/sources/posts/views/_available_terms.php on line 34
+[27-Mar-2015 22:02:00] PHP Fatal error:  Using $this when not in object context in /home/pedal/public_html/wp-content/plugins/slidedeck2/sources/posts/views/show.php on line 36
+[27-Mar-2015 22:02:40] PHP Fatal error:  Call to undefined function  is_taxonomy_hierarchical() in /home/pedal/public_html/wp-content/plugins/slidedeck2/sources/posts/views/_available_terms.php on line 34
+[12-Nov-2015 06:22:01] PHP Fatal error:  Using $this when not in object context in /home/pedal/public_html/wp-content/plugins/slidedeck2/sources/posts/views/show.php on line 36
+[12-Nov-2015 13:29:29] PHP Fatal error:  Call to undefined function  is_taxonomy_hierarchical() in /home/pedal/public_html/wp-content/plugins/slidedeck2/sources/posts/views/_available_terms.php on line 34

@@ -1,0 +1,148 @@
+.WPGgalleryContainer {
+	background-color: #fff;
+	background-image: url('../images/gallery-bg.png');
+	background-position: 0% 0%;
+	background-repeat: no-repeat;
+	margin: 0;
+	padding: 40px 0 35px;
+	position: relative;
+}
+
+.jdGallery {
+	background-color: #000;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.WPGgalleryContainer .jdGallery a.gallerySelectorBtn:hover {
+	-moz-opacity: .75;
+	-ms-filter: "alpha(opacity=75)";
+	filter:alpha(opacity=75);
+	-khtml-opacity: .75;
+	opacity: 0.75;
+}
+
+.WPGgalleryContainer .jdGallery div.carouselContainer a.carouselBtn {
+	z-index: 11;
+}
+
+#myGallerySet div.carouselContainer div.carousel p.label {
+	margin-bottom: 0;
+}
+
+.WPGalbumButton {
+	width: 152px;
+	cursor: pointer;
+	float: left;
+	line-height: 0.9em;
+	margin: 20px 24px 1px;
+}
+
+.WPGalbumButton .preview {
+	background-repeat: no-repeat;
+	width: 150px;
+	height: 150px;
+}
+
+.WPGalbumButton .preview .mask {
+	height: 150px;
+	width: 150px;
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-image: url('../images/album-mask.png');
+}
+
+#myGallerySet .WPGalbumButton h3 {
+	font-size: 0.8em;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	color: #e1e1e1;
+	text-align: center;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+#myGallerySet .WPGalbumButton  p.info {
+	font-size: 0.7em;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	color: #5698e4;
+	text-align: center;
+}
+
+#myGallerySet .WPGalbumButton h3, #myGallerySet .WPGalbumButton p.info, #myGallerySet .WPGalbumButton .preview {
+	-webkit-transition: all 0.25s linear;
+	-moz-transition: all 0.25s linear;
+	-o-transition: all 0.25s linear;
+	transition: all 0.25s linear;
+}
+
+.WPGalbumButton .preview {
+	-moz-opacity: .77;
+	-ms-filter: "alpha(opacity=77)";
+	filter:alpha(opacity=77);
+	-khtml-opacity: .77;
+	opacity: 0.77;
+}
+
+#myGallerySet .WPGalbumButton:hover h3 {
+	color: #fff;
+}
+
+#myGallerySet .WPGalbumButton:hover  p.info {
+	color: #69B2FF;
+}
+
+#myGallerySet .WPGalbumButton:hover .preview {
+	-moz-opacity: .99;
+	-ms-filter: "alpha(opacity=99)";
+	filter:alpha(opacity=99);
+	-khtml-opacity: .99;
+	opacity: 1.0;
+}
+
+.WPGpaginator {
+	position: absolute;
+	right: 31px;
+	bottom: 16px;
+}
+
+.WPGpaginator a {
+	font-size: 0.7em;
+	font-weight: bold;
+	cursor: pointer;
+	border: solid 1px #666;
+	color: #5698e4;
+	margin: 0 0 0 2px;
+	padding: 2px 4px 3px;
+	line-height: 0.9em;
+}
+
+.WPGpaginator a:hover {
+	border-color: #777;
+	color: #79c4FF;
+}
+
+.WPGpaginator a.current, .WPGpaginator a.current:hover {
+	cursor: text;
+	border-color: #888;
+	background-color: #5698e4;
+	color: #fefefe;	
+}
+
+#myGallerySet div.slideInfoZone h3, #myGallerySet div.slideInfoZone h2 {
+	font-size: 0.9em;
+}
+
+#myGallerySet div.slideInfoZone p {
+	font-size: 0.72em;	
+}
+
+#myGallerySet div.slideInfoZone h3, #myGallerySet div.slideInfoZone h2, #myGallerySet div.slideInfoZone p {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	color: #fff;
+}

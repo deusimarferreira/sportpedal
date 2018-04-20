@@ -1,0 +1,5 @@
+[02-Jun-2014 01:41:47] PHP Fatal error:  Class 'WP_Upgrader' not found in /home/pedal/public_html/wp-content/plugins/slidedeck2/classes/slidedeck-lens-upload.php on line 26
+[09-Jun-2014 17:58:00] PHP Fatal error:  Class 'WP_Upgrader' not found in /home/pedal/public_html/wp-content/plugins/slidedeck2/classes/slidedeck-lens-upload.php on line 26
+[15-Oct-2014 17:27:19] PHP Fatal error:  Class 'WP_Upgrader' not found in /home/pedal/public_html/wp-content/plugins/slidedeck2/classes/slidedeck-lens-upload.php on line 26
+[02-Jan-2015 01:12:26] PHP Fatal error:  Class 'WP_Upgrader' not found in /home/pedal/public_html/wp-content/plugins/slidedeck2/classes/slidedeck-lens-upload.php on line 26
+[25-Jul-2015 19:23:33] PHP Fatal error:  Class 'WP_Upgrader' not found in /home/pedal/public_html/wp-content/plugins/slidedeck2/classes/slidedeck-lens-upload.php on line 26

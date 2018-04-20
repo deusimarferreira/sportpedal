@@ -1,0 +1,13 @@
+conte = document.getElementById("cont_2882739297de8462490eeac96a40c47f");
+                                enlace = document.getElementById("h_2882739297de8462490eeac96a40c47f");anchor = document.getElementById("a_2882739297de8462490eeac96a40c47f");h2_enlace = document.getElementById("h2_2882739297de8462490eeac96a40c47f");if (conte && enlace) {
+                                enlace.style.cssText = "font-family: 7; font-size: 13px; color: #00ABEB; text-align: center; text-decoration: none; cursor: pointer;display: block; width: 100%; padding: 4px 0px 1px 0px;";conte.style.cssText = "width: 298px; color: #868686; background-color:#FFFFFF; border:1px solid #D6D6D6; margin: 0 auto; font-family: Verdana;";
+                            if (h2_enlace) h2_enlace.style.cssText = "font-weight:normal;display:inline;";
+                            elem = document.createElement("iframe");
+                            elem.style.cssText = "width:298px; color:#868686; height:338px;";elem.id = "2882739297de8462490eeac96a40c47f";
+                            elem.src = "http://www.tempo.com/getwid/2882739297de8462490eeac96a40c47f";
+                            elem.frameBorder = 0;
+                            elem.allowTransparency = true;
+                            elem.scrolling = "no";
+                            elem.name = "flipe";
+                            conte.appendChild(elem);
+                        }

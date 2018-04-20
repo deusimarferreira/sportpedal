@@ -1,0 +1,3 @@
+[27-Jul-2014 18:50:30] PHP Fatal error:  Call to undefined function  plugin_basename() in /home/pedal/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 35
+[27-Jul-2014 18:50:31] PHP Warning:  require_once(WPCF7_PLUGIN_DIR/includes/functions.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/pedal/public_html/wp-content/plugins/contact-form-7/settings.php on line 3
+[27-Jul-2014 18:50:31] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'WPCF7_PLUGIN_DIR/includes/functions.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/pedal/public_html/wp-content/plugins/contact-form-7/settings.php on line 3

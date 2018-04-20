@@ -1,0 +1,4 @@
+[25-Apr-2014 15:42:53] PHP Fatal error:  Call to undefined function  get_header() in /home/pedal/public_html/wp-content/themes/SolarPower/index.php on line 1
+[25-Apr-2014 15:42:53] PHP Fatal error:  Call to undefined function  get_header() in /home/pedal/public_html/wp-content/themes/SolarPower/index.php on line 1
+[24-Jul-2015 12:53:55] PHP Fatal error:  Call to undefined function  get_header() in /home/pedal/public_html/wp-content/themes/SolarPower/404.php on line 1
+[05-Jan-2016 13:09:10] PHP Fatal error:  Call to undefined function  get_header() in /home/pedal/public_html/wp-content/themes/SolarPower/index.php on line 1

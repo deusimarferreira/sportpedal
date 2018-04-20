@@ -1,0 +1,21 @@
+#simple-sf h3 {
+    background: yellow;
+}
+#simple-sticky-footer-container {
+    position:fixed;
+    display:none;
+    bottom:0;
+    left:0;
+    width:100%;
+    /*min-height: 80px;*/
+    text-align:center;
+    background: transparent;
+}
+
+#simple-sticky-footer {
+    margin:0 auto;
+    text-align: left;
+    background: #fff;
+}
+
+.sf-hidden {display: none;}

@@ -1,0 +1,1 @@
+[17-Oct-2014 03:59:57] PHP Fatal error:  Call to undefined function  register_activation_hook() in /home/pedal/public_html/wp-content/plugins/picasa-express-x2/picasa-express-2.php on line 139

@@ -1,0 +1,6 @@
+[02-Jun-2014 01:49:46] PHP Fatal error:  Using $this when not in object context in /home/pedal/public_html/wp-content/plugins/slidedeck2/sources/flickr/views/show.php on line 39
+[14-Jun-2014 18:24:37] PHP Fatal error:  Using $this when not in object context in /home/pedal/public_html/wp-content/plugins/slidedeck2/sources/flickr/views/show.php on line 39
+[31-Jul-2014 22:29:59] PHP Fatal error:  Using $this when not in object context in /home/pedal/public_html/wp-content/plugins/slidedeck2/sources/flickr/views/show.php on line 39
+[13-Dec-2014 07:46:13] PHP Fatal error:  Using $this when not in object context in /home/pedal/public_html/wp-content/plugins/slidedeck2/sources/flickr/views/show.php on line 39
+[28-Mar-2015 04:03:28] PHP Fatal error:  Using $this when not in object context in /home/pedal/public_html/wp-content/plugins/slidedeck2/sources/flickr/views/show.php on line 39
+[04-Jul-2015 13:57:45] PHP Fatal error:  Using $this when not in object context in /home/pedal/public_html/wp-content/plugins/slidedeck2/sources/flickr/views/show.php on line 39

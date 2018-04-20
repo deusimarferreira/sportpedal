@@ -1,0 +1,10 @@
+[02-Jun-2014 01:48:17] PHP Fatal error:  Call to undefined function  admin_url() in /home/pedal/public_html/wp-content/plugins/slidedeck2/views/lenses/add.php on line 40
+[02-Jun-2014 01:48:52] PHP Fatal error:  Using $this when not in object context in /home/pedal/public_html/wp-content/plugins/slidedeck2/views/lenses/manage.php on line 36
+[13-Jun-2014 16:45:28] PHP Fatal error:  Call to undefined function  admin_url() in /home/pedal/public_html/wp-content/plugins/slidedeck2/views/lenses/add.php on line 40
+[13-Jun-2014 20:56:11] PHP Fatal error:  Using $this when not in object context in /home/pedal/public_html/wp-content/plugins/slidedeck2/views/lenses/manage.php on line 36
+[28-Jul-2014 23:45:03] PHP Fatal error:  Using $this when not in object context in /home/pedal/public_html/wp-content/plugins/slidedeck2/views/lenses/manage.php on line 36
+[01-Aug-2014 13:02:52] PHP Fatal error:  Call to undefined function  admin_url() in /home/pedal/public_html/wp-content/plugins/slidedeck2/views/lenses/add.php on line 40
+[20-Jan-2015 11:30:00] PHP Fatal error:  Call to undefined function  admin_url() in /home/pedal/public_html/wp-content/plugins/slidedeck2/views/lenses/add.php on line 40
+[20-Jan-2015 11:37:35] PHP Fatal error:  Using $this when not in object context in /home/pedal/public_html/wp-content/plugins/slidedeck2/views/lenses/manage.php on line 36
+[28-Mar-2015 03:54:15] PHP Fatal error:  Call to undefined function  admin_url() in /home/pedal/public_html/wp-content/plugins/slidedeck2/views/lenses/add.php on line 40
+[28-Mar-2015 03:59:20] PHP Fatal error:  Using $this when not in object context in /home/pedal/public_html/wp-content/plugins/slidedeck2/views/lenses/manage.php on line 36

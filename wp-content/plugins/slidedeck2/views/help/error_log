@@ -1,0 +1,4 @@
+[02-Jun-2014 01:46:23] PHP Fatal error:  Call to undefined function  admin_url() in /home/pedal/public_html/wp-content/plugins/slidedeck2/views/help/faqs.php on line 46
+[12-Jun-2014 11:38:44] PHP Fatal error:  Call to undefined function  admin_url() in /home/pedal/public_html/wp-content/plugins/slidedeck2/views/help/faqs.php on line 46
+[26-Dec-2014 09:19:10] PHP Fatal error:  Call to undefined function  admin_url() in /home/pedal/public_html/wp-content/plugins/slidedeck2/views/help/faqs.php on line 46
+[27-Mar-2015 21:40:44] PHP Fatal error:  Call to undefined function  admin_url() in /home/pedal/public_html/wp-content/plugins/slidedeck2/views/help/faqs.php on line 46

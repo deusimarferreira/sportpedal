@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Role-manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-12 22:37-0300\n"
+"PO-Revision-Date: 2010-03-12 22:37-0300\n"
+"Last-Translator: Fernando Lopes <contato@fernandolopes.com.br>\n"
+"Language-Team: Fernando Lopes <contato@fernandolopes.com.br>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+
+#: D:\_WORDPRESS\FALHA\role-manager/capability-management.php:84
+msgid "New capability created"
+msgstr "Nova permissão criada"
+
+#: D:\_WORDPRESS\FALHA\role-manager/capability-management.php:86
+msgid "Unused capabilites purged"
+msgstr "Permissões não utilizadas eliminadas"
+
+#: D:\_WORDPRESS\FALHA\role-manager/capability-management.php:91
+msgid "Manage Capabilities"
+msgstr "Administrar Permissões"
+
+#: D:\_WORDPRESS\FALHA\role-manager/capability-management.php:92
+msgid "This page is for editing capabilities."
+msgstr "Esta página é para editar permissões."
+
+#: D:\_WORDPRESS\FALHA\role-manager/capability-management.php:94
+msgid "Custom Capabilities"
+msgstr "Permissões Personalizadas"
+
+#: D:\_WORDPRESS\FALHA\role-manager/capability-management.php:96
+msgid "New Capability Name: "
+msgstr "Nome da Nova Permissão:"
+
+#: D:\_WORDPRESS\FALHA\role-manager/capability-management.php:99
+msgid "Create Capability"
+msgstr "Criar Permissão:"
+
+#: D:\_WORDPRESS\FALHA\role-manager/capability-management.php:101
+#: D:\_WORDPRESS\FALHA\role-manager/capability-management.php:113
+msgid "Purge Unused Capabilities"
+msgstr "Eliminar Permissões Não Utilizadas"
+
+#: D:\_WORDPRESS\FALHA\role-manager/capability-management.php:105
+msgid "This capabilities are unused and will be purged"
+msgstr "Estas permisões não são utilizadas e serão removidas"
+
+#: D:\_WORDPRESS\FALHA\role-manager/capability-management.php:113
+msgid "If core capabilities are not currently assigned to any Role, then you must manually re-add them after this action if you want to use them.  Are you sure you want to do this?"
+msgstr "Se as permissões de base não estiverem atualmente atribuidas a nenhum perfil, então terá que as adicionar manualmente depois desta ação, para as poder utilizar. Tenha certeza que é isso que quer?"
+
+#: D:\_WORDPRESS\FALHA\role-manager/capability-management.php:117
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:123
+msgid "You don't have unused capabilities."
+msgstr "Você não tem permissões não utilizadas."
+
+#: D:\_WORDPRESS\FALHA\role-manager/capability-management.php:134
+msgid "Assign extra capabilites"
+msgstr "Assinar permissões adicionais"
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:32
+msgid "Configuration saved"
+msgstr "Configuração salva"
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:37
+msgid "Configuration"
+msgstr "Configuração"
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:44
+msgid "Spaces allowed in Capabilities"
+msgstr "Espaços permitidos em Permissões"
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:47
+msgid "If you have trouble with other plugins and Role Managers Capability Check"
+msgstr "Se você tiver problemas com outros plugins e selecione Role Managers Capatibilidade"
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:51
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:55
+msgid "Store"
+msgstr "Armazenar"
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:60
+msgid "General information about your Roles and Capabilities and this Plugin"
+msgstr "Informações gerais sobre seus Perfis, Permissões e este Plugin"
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:62
+msgid "Statistics"
+msgstr "Estatísticas"
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:64
+msgid "User-Statistic"
+msgstr "Estatística de Usuário"
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:66
+msgid "Users in your Blog: "
+msgstr "Usuários em seu Blog:"
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:68
+msgid "Roles-Statistic"
+msgstr "Estatística de Perfil"
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:70
+msgid "Roles in your Blog: "
+msgstr "Perfis em seu Blog:"
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:71
+msgid "Attached Roles: "
+msgstr "Perfis Anexados:"
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:78
+msgid "Detached Roles: "
+msgstr "Perfis Independentes:"
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:86
+msgid "Capabilities-Statistic"
+msgstr "Estatísticas de Permissões"
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:88
+msgid "Capabilities in your Blog: "
+msgstr "Permissões em seu Blog:"
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:94
+msgid "Detached Capabilities: "
+msgstr "Permissões Independentes:"
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:101
+msgid "You don't have detached capabilities."
+msgstr "Você não tem permissões independentes."
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:105
+msgid "Dedicated Capabilities: "
+msgstr "Permissões Dedicadas:"
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:112
+msgid "You don't have dedicated capabilities."
+msgstr "Você não tem permissões dedicadas."
+
+#: D:\_WORDPRESS\FALHA\role-manager/general.php:116
+msgid "Unused Capabilities: "
+msgstr "Permissões Não Utilizadas:"
+
+#: D:\_WORDPRESS\FALHA\role-manager/help.php:30
+msgid "Help for the Role Manager Plugin"
+msgstr "Ajuda pra o plugin Role Manager"
+
+#: D:\_WORDPRESS\FALHA\role-manager/help.php:32
+msgid "General Help Contents"
+msgstr "Índice Geral de Ajuda"
+
+#: D:\_WORDPRESS\FALHA\role-manager/help.php:34
+msgid "Help TOC"
+msgstr "Ajuda TOC"
+
+#: D:\_WORDPRESS\FALHA\role-manager/help.php:35
+#: D:\_WORDPRESS\FALHA\role-manager/help.php:45
+msgid "System Information for your Support Request"
+msgstr "Sistema de Informação para a Solicitação de Suporte"
+
+#: D:\_WORDPRESS\FALHA\role-manager/help.php:43
+msgid "No help file found!"
+msgstr "Arquivo de ajuda não encontrado!"
+
+#: D:\_WORDPRESS\FALHA\role-manager/help.php:46
+msgid "Use this information if you have any problems or questions with the \"Role Manager\" at the \"<a href=\"http://www.im-web-gefunden.de/wordpress-plugins/role-manager\" title=\"Role Manager Plugin Homepage\">Role Manager Plugin Homepage</a>\"."
+msgstr "Use essas informações se você tiver quaisquer problemas ou dúvidas com o \"Role Manager\" na  \"<a href=\"http://www.im-web-gefunden.de/wordpress-plugins/role-manager\" title=\"Role Manager Plugin Homepage\">homepage do Role Manager Plugin</a>\"."
+
+#: D:\_WORDPRESS\FALHA\role-manager/help.php:49
+msgid "WordPress-Version"
+msgstr "Versão do WordPress"
+
+#: D:\_WORDPRESS\FALHA\role-manager/help.php:50
+msgid "WordPress-Db-Version"
+msgstr "Versão do BD do WordPress"
+
+#: D:\_WORDPRESS\FALHA\role-manager/help.php:51
+msgid "Role-Manager-Version"
+msgstr "Versão do Role Manager"
+
+#: D:\_WORDPRESS\FALHA\role-manager/help.php:52
+msgid "PHP-Version"
+msgstr "Versão do PHP"
+
+#: D:\_WORDPRESS\FALHA\role-manager/help.php:54
+msgid "preg_replace"
+msgstr "preg_replace"
+
+#: D:\_WORDPRESS\FALHA\role-manager/help.php:54
+msgid "yes"
+msgstr "sim"
+
+#: D:\_WORDPRESS\FALHA\role-manager/help.php:54
+msgid "no"
+msgstr "não"
+
+#: D:\_WORDPRESS\FALHA\role-manager/help.php:55
+msgid "Help-URI"
+msgstr "Ajuda-URI"
+
+#: D:\_WORDPRESS\FALHA\role-manager/help.php:58
+msgid "Your comments are also welcome!"
+msgstr "Seus comentários são bem-vindos!"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:67
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:437
+msgid "Capability granted"
+msgstr "Permissão concedida"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:67
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:439
+msgid "Capability denied"
+msgstr "Permissão negada"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:115
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:123
+msgid "Rename Role"
+msgstr "Renomear Perfil"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:119
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:205
+msgid "New Name:"
+msgstr "Novo Nome:"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:201
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:219
+msgid "Copy Role"
+msgstr "Copiar Perfil"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:206
+msgid "Copy of"
+msgstr "Cópia de "
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:208
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:532
+msgid "Capabilities to be included:"
+msgstr "Permissões a incluir:"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:259
+msgid "Delete Role"
+msgstr "Eliminar Perfil"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:260
+msgid "All users with this role will have it removed, and they will lose all capabilities from this role (unless other roles provide it). If a user has only this role, they will be assigned the default role, "
+msgstr "Todos os usuários com este perfil deixarão de o ter e perderão as permissões associadas (a menos que concedidas por outros perfis). Se um usuário tem apenas este perfil, ficará com o perfil padrão,"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:265
+msgid "Confirm Delete Role"
+msgstr "Confirme a Eliminação do Perfil"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:339
+msgid "Default role changed."
+msgstr "Perfil padrão modificado."
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:347
+msgid "Error: Default role not changed."
+msgstr "Erro: Perfil padrão não modificado."
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:407
+msgid "Set user level of role."
+msgstr "Indique o nível do perfil."
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:441
+msgid "New role created"
+msgstr "Novo perfil criado"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:443
+msgid "Role renamed"
+msgstr "Perfil renomeado"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:445
+msgid "Role copied"
+msgstr "Perfil copiado"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:447
+msgid "Role deleted"
+msgstr "Perfil eliminado"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:449
+msgid "Default role changed"
+msgstr "Perfil padrão modificado"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:451
+msgid "Set user level of role"
+msgstr "Defina o nivel do perfil"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:455
+msgid "Manage Roles"
+msgstr "Administrar Perfis"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:456
+msgid "This page is for editing what capabilities are associated with each role. To change the capabilities of a specific user, click on Authors &amp; Users, then click Edit next to the user you want to change. You can <a href=\"#new-role\">add new roles</a> as well."
+msgstr "Esta página serve para administrar as permissões associadas a cada perfil. Para modificar as permissões de um usuário especifico, clique em Usuários (<i>Authors &amp; Users</i>) e em Editar o usuário que quer modificar. Pode também <a href=\"#new-role\">criar novos perfis</a>."
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:473
+msgid "rename"
+msgstr "renomear"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:476
+msgid "copy"
+msgstr "cópia"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:482
+msgid "delete"
+msgstr "apagar"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:496
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:498
+msgid "Granted"
+msgstr "Concedida"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:501
+msgid "Denied"
+msgstr "Negada"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:512
+msgid "Update"
+msgstr "Atualizar"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:523
+#, php-format
+msgid " User Level: %s"
+msgstr "Nivel de Usuário: %s"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:529
+msgid "Create a new Role"
+msgstr "Criar novo Perfil"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:531
+msgid "Role Name:"
+msgstr "Nome do Perfil:"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-management.php:541
+msgid "Create Role"
+msgstr "Criar Perfil"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:132
+msgid "Role Management"
+msgstr "Administrar Perfil"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:132
+msgid "Roles"
+msgstr "Perfis"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:134
+msgid "Capability Management"
+msgstr "Administrar Permissão"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:134
+msgid "Capabilities"
+msgstr "Permissões"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:136
+msgid "Role-/Capability Management General"
+msgstr "Perfil / Permissão - Administração Geral"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:138
+msgid "Role-/Capability Management Help"
+msgstr "Perfil / Permissão - Ajuda"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:171
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:613
+msgid "You can't remove this permission from a role assigned to you!"
+msgstr "Você não pode remover essa permissão de um peril atribuído a você!"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:596
+msgid "You must enter a role name."
+msgstr "Você deve digitar um nome de perfil."
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:597
+#, php-format
+msgid "Can't rename. A Role with the name %s already exists."
+msgstr "Não é possível mudar o nome. Um perfil com o nome %s já existe. Você deve digitar um nome de perfil."
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:598
+msgid "You cannot delete the default role."
+msgstr "Não pode apagar o perfil padrão"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:599
+#, php-format
+msgid "Can't make %s the default. Not a role."
+msgstr "Não é possível atribuir % como padrão. Não é um perfil."
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:600
+#, php-format
+msgid "Can't create the new Role. A Role with the name %s already exists."
+msgstr "Não é possível criar o novo Perfil. Um perfil com o nome %s já existe."
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:601
+msgid "Role name to short or to long"
+msgstr "Nome do perfil muito curto ou muito longo"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:602
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:603
+msgid "A valid role name can only have letters, digits and spaces"
+msgstr "Um nome de perfil válido só pode ter letras, números e espaços"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:604
+#, php-format
+msgid "Can't create the new Role. A Capability with the name %s already exists."
+msgstr "Não é possível criar o novo Perfil. Já existe uma permissão com o nome %s."
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:605
+msgid "You must enter a valid user level"
+msgstr "Você deve digitar um nível de usuário válido"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:606
+msgid "You must enter a capability name."
+msgstr "Você deve digitar um nome de permissão."
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:607
+msgid "Capability don't exists."
+msgstr "Pèrmissão não existe."
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:608
+msgid "Capability name to short or to long"
+msgstr "Nome de permissão muito curto ou muito longo"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:609
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:610
+msgid "A valid capability name can only have letters, digits and spaces. Try Role Managers \"Spaces allowed in Capabilities\" option."
+msgstr "Um nome de permissão válido só pode ter letras, números e espaços. Tente em Role Manager opções de \"Espaços Permitidos em Permissões\"."
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:611
+#, php-format
+msgid "Can't create the new Capability. A Role with the name %s already exists."
+msgstr "Não é possível criar a nova Permissão. Um Perfil com o nome %s já existe."
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:612
+msgid "You are not allowed to do this here"
+msgstr "Você não tem permissão para fazer isso aqui"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:614
+msgid "You cannot remove the Edit Users or Manage Roles capability from yourself."
+msgstr "Você não pode remover permissões de Editar Usuários ou Administrar Permissões de si mesmo."
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:615
+msgid "Wrong User-ID!"
+msgstr "ID de Usuário Incorreto!"
+
+#: D:\_WORDPRESS\FALHA\role-manager/role-manager.php:616
+msgid "User don't exists!"
+msgstr "Usuário não existe!"
+
+#~ msgid "Can't make "
+#~ msgstr "N&atilde;o &eacute; poss&iacute;vel"

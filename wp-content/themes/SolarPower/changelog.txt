@@ -1,0 +1,6 @@
+2014-04-08 - Version 1.1
+* Fixed all the included custom widgets to work properly with the live widget customizer, a feature to be included in the upcoming version 3.9 of WordPress.
+* Upgrading instructions: Just re-upload all the files in the following folder: lib/widgets/
+
+2014-03-20 - Version 1.0
+* Initial theme release!

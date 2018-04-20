@@ -1,0 +1,8 @@
+[02-Jun-2014 01:35:34] PHP Fatal error:  Call to undefined function  register_activation_hook() in /home/pedal/public_html/wp-content/plugins/slidedeck2/slidedeck2-lite.php on line 4247
+[07-Jun-2014 09:10:30] PHP Fatal error:  Call to undefined function  register_activation_hook() in /home/pedal/public_html/wp-content/plugins/slidedeck2/slidedeck2-lite.php on line 4247
+[08-Jun-2014 10:57:33] PHP Fatal error:  Call to undefined function  register_activation_hook() in /home/pedal/public_html/wp-content/plugins/slidedeck2/slidedeck2-lite.php on line 4247
+[15-Oct-2014 06:24:52] PHP Fatal error:  Call to undefined function  register_activation_hook() in /home/pedal/public_html/wp-content/plugins/slidedeck2/slidedeck2-lite.php on line 4247
+[13-Dec-2014 17:36:07] PHP Fatal error:  Call to undefined function  register_activation_hook() in /home/pedal/public_html/wp-content/plugins/slidedeck2/slidedeck2-lite.php on line 4247
+[06-Mar-2015 19:06:50] PHP Fatal error:  Call to undefined function  register_activation_hook() in /home/pedal/public_html/wp-content/plugins/slidedeck2/slidedeck2-lite.php on line 4247
+[18-Sep-2015 02:42:22] PHP Fatal error:  Call to undefined function  register_activation_hook() in /home/pedal/public_html/wp-content/plugins/slidedeck2/slidedeck2-lite.php on line 4247
+[08-Jan-2016 23:38:59] PHP Fatal error:  Call to undefined function  register_activation_hook() in /home/pedal/public_html/wp-content/plugins/slidedeck2/slidedeck2-lite.php on line 4247

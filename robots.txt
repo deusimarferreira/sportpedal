@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /calendario/action~posterboard/
+Disallow: /calendario/action~agenda/
+Disallow: /calendario/action~oneday/
+Disallow: /calendario/action~month/
+Disallow: /calendario/action~week/
+Disallow: /calendario/action~stream/
+Disallow: /calendario/action~undefined/
+Disallow: /calendario/action~http:/
+Disallow: /calendario/action~default/
+Disallow: /calendario/action~poster/
+Disallow: /calendario/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/

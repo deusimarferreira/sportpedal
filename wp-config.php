@@ -18,10 +18,10 @@
 /** O nome da base de dados do WordPress */
 //define('WP_CACHE', true); //Added by WP-Cache Manager
 define( 'WPCACHEHOME', '/home/u197965524/public_html/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
-define('DB_NAME', 'u197965524_spd');
+define('DB_NAME', 'To be define');
 
 /** O nome do utilizador de MySQL */
-define('DB_USER', 'u197965524_spd');
+define('DB_USER', 'To be define');
 
 /** Redirecionamento do site */
 define("WP_SITEURL","http://www.sportpedal.com");
@@ -29,10 +29,10 @@ define("WP_SITEURL","http://www.sportpedal.com");
 define("WP_HOME","http://www.sportpedal.com/");
 
 /** A password do utilizador de MySQL  */
-define('DB_PASSWORD', 'Spd@2016');
+define('DB_PASSWORD', 'To be define');
 
 /** O nome do serviddor de  MySQL  */
-define('DB_HOST', 'mysql.hostinger.com.br');
+define('DB_HOST', 'To be define');
 
 /** O "Database Charset" a usar na criação das tabelas. */
 define('DB_CHARSET', 'utf8');

@@ -10,8 +10,8 @@ Para atender as particularidades de todos e, tornando a pedalada mais agradável
 
 Dessa forma temos que:
 
-## Nível A - 1º SÁBADO DO MÊS
-# Nível B - 2º SÁBADO DO MÊS
+### Nível A - 1º SÁBADO DO MÊS
+### Nível B - 2º SÁBADO DO MÊS
 # Nível C - 3º SÁBADO DO MÊS
 # Nível D - 4º SÁBADO DO MÊS
 

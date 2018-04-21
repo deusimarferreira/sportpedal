@@ -19,4 +19,4 @@ Quando houver meses que possuam o 5º sábado este será de nível livre ou seja
 
 #### Check in da Bike: Calibragem dos pneus, regulagem das marchas, lubrificação da corrente, verificação dos freios, Ciclo computador (Opcional porém importante), Luminosos traseiros e dianteiro (para pedal noturno). A verificação antecipada destes itens evitará atrasos na saída do Pedal.
 
-### Itens recomendados: Kit Remendo (Remendo, cola para remendo, bomba de ar câmara de ar reserva), jogo de ferramentas apropriadas para sua bike, celular, água, alimentos e repositores (barrinha de cereais, biscoito, batata cozida, pão, repositor hidro eletrolítico ou isotônico, etc), carteira de identidade, dinheiro ou cartão para eventuais despesas decorrentes da atividade.
+#### Itens recomendados: Kit Remendo (Remendo, cola para remendo, bomba de ar câmara de ar reserva), jogo de ferramentas apropriadas para sua bike, celular, água, alimentos e repositores (barrinha de cereais, biscoito, batata cozida, pão, repositor hidro eletrolítico ou isotônico, etc), carteira de identidade, dinheiro ou cartão para eventuais despesas decorrentes da atividade.
